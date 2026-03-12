@@ -1,0 +1,2 @@
+source_id	subjects_num	sessions_num	sessions_min	sessions_max	bold_num	t1w_num	t2w_num	bold_size	t1w_size	bold_size_max	bold_duration_total	bold_duration_mean	bold_voxels_total	bold_voxels_mean	datatypes
+ds004884	230	1794	1	60	2793	893	881	254034854290	3622239902	90954118	1927126.292788744	689.9843511595933	598720464	214364.64876476905	anat,dwi,func
